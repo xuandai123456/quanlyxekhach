@@ -1,0 +1,18 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\cssjsadmin",
+    "\\cssjsadmin\\ckeditor",
+    "\\cssjsadmin\\ckeditor\\adapters",
+    "\\images",
+    "\\wp-content",
+    "\\wp-content\\themes",
+    "\\wp-content\\themes\\sterling",
+    "\\wp-content\\themes\\sterling\\open-sans-gh-pages",
+    "\\wp-includes",
+    "\\wp-includes\\js",
+    "\\wp-includes\\js\\jquery"
+  ],
+  "SelectedNode": "\\cssjsadmin\\ckeditor\\adapters\\jquery.js",
+  "PreviewInSolutionExplorer": false
+}
